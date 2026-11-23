@@ -1,0 +1,10 @@
+# CPU scripts (summarize.py, make_poster_figs.py, build_explorer.py)
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+# Full experiment (GPU; the notebook installs these itself on Colab)
+torch>=2.2
+transformers>=4.51
+accelerate>=0.30
